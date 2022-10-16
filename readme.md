@@ -1,5 +1,6 @@
 # TUT REACT NATIVE REDUX
 
+## Structure
 ```
 src
 |-redux
@@ -9,5 +10,7 @@ src
     |   |->countReducer.js
     |->store.js
 ```
+
+## Attachment
 
 ![](/Img/img.png)

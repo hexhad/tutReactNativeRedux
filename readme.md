@@ -10,4 +10,4 @@ src
     |->store.js
 ```
 
-![](/Img/Img.JPG)
+![](/Img/Img.png)
